@@ -4,7 +4,6 @@
 
 ### PDF
 PopupPDFBehaviour_CA654B54_D25F_2A1D_41D2_A53A4C379422.url = files/2_es.pdf
-PopupPDFBehaviour_CAFD635E_D259_1A0A_41E5_339ECD68BB6C.url = files/VoBo%20COND%203%20COPAL-SEM-1_es.pdf
 
 ### URL
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1291.5761016692907!2d-100.40657554645128!3d20.510452587013862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1780624378086!5m2!1ses!2smx
@@ -23,7 +22,9 @@ HotspotPanoramaOverlayTextImage_B4F68E88_98C6_442A_41C6_11212A822B77.text = Infr
 ### URL
 FramePanoramaOverlay_E0E2AD73_CF6B_57A2_41D7_F730FA2D7BC4.url = https://www.dropbox.com/scl/fi/03teq07aq0k63sarut3i3/52.png?rlkey=vfwoy6o7q77yz4sbigpgm6w88&st=klqg676p&raw=1
 FramePanoramaOverlay_FBBBE504_CCBB_7768_41E5_F54026AF197F.url = https://www.dropbox.com/scl/fi/0lfq3hdxgxc3n1ignlvjq/lote120.gif?rlkey=hl9oikuprfkvljf4237g0tv9i&st=lj9yre7e&raw=1
+FramePanoramaOverlay_E5858CD5_CC9A_D6E0_41B3_9AA94B318B3F.url = https://www.dropbox.com/scl/fi/1135djxgi7dpbij96djtx/70.png?rlkey=mow9m0zv3mph8gm9cwtr3c8q1&st=mdfwynqd&raw=1
 FramePanoramaOverlay_E79D2069_CF67_4DAC_41E5_B6248BEB61E0.url = https://www.dropbox.com/scl/fi/117xrxukq3srnunu7x8zz/45.png?rlkey=y0y7wp8tp6885jkb7gbx34o7n&st=6zxqfjow&raw=1
+FramePanoramaOverlay_E11E9982_CC99_5F61_41CF_E4B75B4B0963.url = https://www.dropbox.com/scl/fi/16mkjqs6zfyjx5q9o3bnl/69.png?rlkey=ix941db7oeasrq8zwawt8x8ls&st=sqw9d03e&raw=1
 FramePanoramaOverlay_F853383D_CC99_BD95_41D2_3FE42F58FC08.url = https://www.dropbox.com/scl/fi/1f5vqxh4gept4b6ag55b4/lote176.gif?rlkey=9uimsvla5mz5ogrfcfd2wzkb5&st=ct88nm3r&raw=1
 FramePanoramaOverlay_E77D1420_CF69_7558_41C5_C83E560FC28E.url = https://www.dropbox.com/scl/fi/2ehcdjahirwhju1ga78gj/15.png?rlkey=3joib46136p7xzgcij983q1vx&st=dhws2urb&raw=1
 FramePanoramaOverlay_E46C201A_CF67_4D68_41E0_98533741FD0E.url = https://www.dropbox.com/scl/fi/2k2138tf2vvfx057cwfn2/20.png?rlkey=61uwxc9sjny7jg4zy1w7vwtsm&st=40eh37h2&raw=1
@@ -33,7 +34,6 @@ FramePanoramaOverlay_FBE35148_CCA9_4FF8_41D0_2AF415837F33.url = https://www.drop
 FramePanoramaOverlay_E3AC432D_CCA7_53BD_41BF_7CCE81930ACA.url = https://www.dropbox.com/scl/fi/3b6am96ouaw0toopheaul/lote83.gif?rlkey=y5djwysg6d9yyzgo3dgq7o8n8&st=1ngzbazl&raw=1
 FramePanoramaOverlay_E72DB5F0_CF69_76BD_41E0_8C2BF5548259.url = https://www.dropbox.com/scl/fi/3b6sht8ylteiode4upoue/47.png?rlkey=soudbtgg3jp46taqvjls12na6&st=29jxs3zd&raw=1
 FramePanoramaOverlay_FBFCF8B1_CCA6_BEAA_41E5_D09AA220719D.url = https://www.dropbox.com/scl/fi/3haehyxvdqmkw7jds5zu2/lote153.gif?rlkey=dbrtruxbmlpq305u96dpjy1jr&st=953yqh9g&raw=1
-FramePanoramaOverlay_E11E9982_CC99_5F61_41CF_E4B75B4B0963.url = https://www.dropbox.com/scl/fi/3khbsygr1i5p6jomp25sg/lote69.gif?rlkey=2nqmzwc9cosf2oaaeqv22ffja&st=eq524ao4&raw=1
 FramePanoramaOverlay_F943AAC6_CC9F_52F7_41E5_2F37767A975A.url = https://www.dropbox.com/scl/fi/3npqitu2aj1nmtefd3c4z/lote168.gif?rlkey=2xrtfvd8urgeg5meqxt39k43h&st=x6pgdmwa&raw=1
 FramePanoramaOverlay_E7F0C295_CF79_4D7A_41DF_261203356EF9.url = https://www.dropbox.com/scl/fi/3rnr2qx06o3ki6u610eln/29.png?rlkey=brbg6ubz9r2vz4pkrnlu8mwm0&st=7x81xwi3&raw=1
 FramePanoramaOverlay_E31A2257_CC99_CDEF_41D5_5AC428B5E0C6.url = https://www.dropbox.com/scl/fi/441z2g2rkav9jarym37xq/lote74.gif?rlkey=yo4217oaverk50n1wv5eppt1y&st=q63rrc8k&raw=1
@@ -45,17 +45,18 @@ FramePanoramaOverlay_FC0F3AC7_CCBF_B2E8_41E2_07BE6344F7B0.url = https://www.drop
 FramePanoramaOverlay_F0A1B489_C21E_6F54_41C5_8C22F5EEABE9.url = https://www.dropbox.com/scl/fi/4kpd6paxg5uwzaeel1wch/3.png?rlkey=7ntrf65yusozx8juk04v76b2c&st=gcwmhxs3&raw=1
 FramePanoramaOverlay_FA93383F_CCA6_BD96_41E3_37199661B0A1.url = https://www.dropbox.com/scl/fi/554mrirbkbq33xwzzh8om/lote150.gif?rlkey=jnw8h2l9celvifdtwyhpl4agx&st=yftmwsk5&raw=1
 FramePanoramaOverlay_F9541A4A_CC99_5DFE_41CD_70B980C9BA8A.url = https://www.dropbox.com/scl/fi/58cbapbddh2zsvrw04vd7/lote156.gif?rlkey=jtevh8mg33bvqypdbgxbfm7p6&st=c8xiqlar&raw=1
-FramePanoramaOverlay_E0E11D85_CF67_7760_41CE_7FDAD30D08E1.url = https://www.dropbox.com/scl/fi/5srdc3ztmt7hjyb3e6q2y/64.png?rlkey=4muauz25eadvqf6rhsiwckp0z&st=6rszrtpb&raw=1
+FramePanoramaOverlay_E0E11D85_CF67_7760_41CE_7FDAD30D08E1.url = https://www.dropbox.com/scl/fi/5srdc3ztmt7hjyb3e6q2y/64.png?rlkey=4muauz25eadvqf6rhsiwckp0z&st=r7fth5eq&raw=1
+FramePanoramaOverlay_E5B2B4A3_CC9B_76A7_41D7_795B45CA97AF.url = https://www.dropbox.com/scl/fi/5yrvsiwwwkzv223ncf4ql/71.png?rlkey=uak2du0wzbj0mwipw16un8g27&st=1mfq4cyo&raw=1
 FramePanoramaOverlay_E6C16FE2_CF69_52D8_41E5_E341A9CC3228.url = https://www.dropbox.com/scl/fi/601zffj7vlnw1kjt0i0eg/17.png?rlkey=hidwwz5ow8b5je923c2a6k2fb&st=ywxpubpx&raw=1
 FramePanoramaOverlay_E3E4B085_CCA7_CD6D_41BA_2AB31A31CCEF.url = https://www.dropbox.com/scl/fi/60u2dc6i45qojycg4gn06/lote84.gif?rlkey=t3rmxi8nvs42qeaw75bnvcvtu&st=zyu3t6zx&raw=1
 FramePanoramaOverlay_F1356463_C21F_EFD4_41E7_7855ECE82890.url = https://www.dropbox.com/scl/fi/63d2gn5bxx4seblpzduku/1.png?rlkey=n2htdi1h9uekc4lkd9i8h0jj5&st=yodq6amd&raw=1
 FramePanoramaOverlay_FE2B6A37_CCA9_5DAC_41E7_9B59C5D2F055.url = https://www.dropbox.com/scl/fi/65u28v9d3945hl2mn08wx/lote88.gif?rlkey=f5dpq2y8sdnsxaq6kbleshpfr&st=vksx3ez6&raw=1
-FramePanoramaOverlay_E5FDD08C_CC9B_CD61_41E0_671FE0B9B80E.url = https://www.dropbox.com/scl/fi/6avq4p6q4ndp41gku1xae/lote72.gif?rlkey=r0nrnfg5irko9kh2pxt513co2&st=krhr88oq&raw=1
 FramePanoramaOverlay_E6B1CE88_CF7A_B569_419C_3A83437F4321.url = https://www.dropbox.com/scl/fi/6di2742ja9cok02ab15fm/25.png?rlkey=yib91qngx2iuiphibs0mtcl1q&st=ysm7l5o5&raw=1
 FramePanoramaOverlay_E721F965_CF7A_BFDB_41E5_66A9B086BC1C.url = https://www.dropbox.com/scl/fi/6rygkxo0x18n4cq1kj20m/24.png?rlkey=fp62gsyio2ejjwxjefnmniqqx&st=005qgn8o&raw=1
 FramePanoramaOverlay_E0570696_CCA7_556F_41E2_E6BB93D32824.url = https://www.dropbox.com/scl/fi/6wla8cl38ms1wc14v80x8/lote85.gif?rlkey=bu8ieyg4a6ytgbxnmvl8ftcwj&st=zbs438lm&raw=1
 FramePanoramaOverlay_E536B357_CF7B_B3E6_41C5_C107D2CCDF5C.url = https://www.dropbox.com/scl/fi/7567y6z8u1pvn583hq0nv/26.png?rlkey=hfns45vla23lc6fuvs0i6lj5x&st=uia9o44y&raw=1
 FramePanoramaOverlay_E3683842_CCA6_DDE7_41BA_8007E7E2D4D6.url = https://www.dropbox.com/scl/fi/7c36dzwr3mm0cmy38ftim/lote82.gif?rlkey=i5h8kt313vize2ejr2drt9lf3&st=7h5ukm7o&raw=1
+FramePanoramaOverlay_E5FDD08C_CC9B_CD61_41E0_671FE0B9B80E.url = https://www.dropbox.com/scl/fi/7jyv1zizsxlslhtw3jm8r/72.png?rlkey=dqdh6jhwcs710w8149fehkxwh&st=2fpmcdqw&raw=1
 FramePanoramaOverlay_FBE3BAF6_CC9A_B297_41DB_A02FDE8DDC24.url = https://www.dropbox.com/scl/fi/7u5r54rvb0mpo4g7w73qq/lote174.gif?rlkey=xb1cba69ziibn92473bsq2gl6&st=145ayb5w&raw=1
 FramePanoramaOverlay_F800CA8B_CCBA_FD78_41C3_25730FC83E71.url = https://www.dropbox.com/scl/fi/7v4bbn6ou4myfvyfjpstu/lote121.gif?rlkey=jvkn1xcclsnkmxukgpievh8wi&st=aqn80ma2&raw=1
 FramePanoramaOverlay_E6E8A950_CF7F_5FFA_41E8_FF33E77298D0.url = https://www.dropbox.com/scl/fi/848xulej8dglpp9imcsme/32.png?rlkey=7u7znq0zq3wn3rlmt66mwuuws&st=gl1yy3ky&raw=1
@@ -63,7 +64,6 @@ FramePanoramaOverlay_FEEC7DA0_CCA9_56A6_41E6_9DB6DBA67A68.url = https://www.drop
 FramePanoramaOverlay_E68BE877_CF6E_BDA2_41C1_BF17BCCDD4BB.url = https://www.dropbox.com/scl/fi/8mr09mzm8ti4w4nif7yl2/57.png?rlkey=1p9m4ns5f9hgus9400361lsm6&st=90zoo5xq&raw=1
 FramePanoramaOverlay_FD7FF5D8_CCA6_B6E6_41E5_7ECAE665CA6A.url = https://www.dropbox.com/scl/fi/8mr55silxj9zoylp6cdzb/lote101.gif?rlkey=gwki0ue6b6wwdem1jdwgn7nvo&st=va0kd1c5&raw=1
 FramePanoramaOverlay_EDA306C7_C217_E8DC_41BC_BA014A2FB96F.url = https://www.dropbox.com/scl/fi/8vmyis8tw40847y3ni763/8.png?rlkey=awj0737co2y1q4f9t8wu0oor5&st=b4x2dzza&raw=1
-FramePanoramaOverlay_E08198B2_CF67_FEA0_41E6_54A91266E9DF.url = https://www.dropbox.com/scl/fi/8vrgkp6428amhqe6giinr/lote65.gif?rlkey=o2qrv9wqi2l0gbt4oync4d167&st=ylmp3hu7&raw=1
 FramePanoramaOverlay_E0706895_CF6A_FD66_41A7_6EB7E7ECAD5D.url = https://www.dropbox.com/scl/fi/90y0ejle4gzeunid44lu6/53.png?rlkey=j17fczblafl5blt4wmmp4xys3&st=zubo1ctb&raw=1
 FramePanoramaOverlay_E4CBC5E5_CF67_B6DB_41C6_F871654057B6.url = https://www.dropbox.com/scl/fi/92bzc450aoqiosvfvxtlt/19.png?rlkey=v9gcidb9fnhgsy9n5exan73v6&st=3fa7mv6v&raw=1
 FramePanoramaOverlay_FA1D8213_CCA9_4D6E_41E2_CD32CA9A9510.url = https://www.dropbox.com/scl/fi/92f15nhl4ujxrrp4p4a8i/lote148.gif?rlkey=xue334duco071wjd5rrk2jxmg&st=235fac5p&raw=1
@@ -86,7 +86,6 @@ FramePanoramaOverlay_FFA8FDBE_CCBE_B69B_41A2_22586A0CF27E.url = https://www.drop
 FramePanoramaOverlay_E26EBADC_CC9A_D2E2_41D3_35155581EEDB.url = https://www.dropbox.com/scl/fi/c76eoz5gjo5swx2jxftr0/lote73.gif?rlkey=veygtd5qmchq4iaw22x1txsde&st=kyz366eo&raw=1
 FramePanoramaOverlay_E38FCBE7_CCAB_52AC_41C6_FB890AFDCEF6.url = https://www.dropbox.com/scl/fi/ccyjzs28iahhu1q6qw7o0/lote89.gif?rlkey=vcnxy2jd588lfir0g2txpy35a&st=wu4nwlty&raw=1
 FramePanoramaOverlay_FF554282_CCAE_CD64_41DC_9356736F97CF.url = https://www.dropbox.com/scl/fi/cg0vijkdn8mybwpmnv7bb/lote91.gif?rlkey=nnj0r2qatis492u4nb6uu5tv1&st=8its1855&raw=1
-FramePanoramaOverlay_E5B2B4A3_CC9B_76A7_41D7_795B45CA97AF.url = https://www.dropbox.com/scl/fi/cxzmulrbwcieodubbmu6q/lote71.gif?rlkey=y7p59ldu5ot36m36me9gycngq&st=4s2xprof&raw=1
 FramePanoramaOverlay_F8635545_CCB9_77E8_41D9_C1872C24B78C.url = https://www.dropbox.com/scl/fi/d298ulggeas52s3fj4epn/lote122.gif?rlkey=67s3a17utepl2y941icvvr72i&st=zihkpbbu&raw=1
 FramePanoramaOverlay_FABF7904_CC9A_BF6B_41DE_654ED9E11FFF.url = https://www.dropbox.com/scl/fi/d5mdaooevk0u1ltcn63fd/lote171.gif?rlkey=8hbk0o8mwlffhdq5p7bmuqiuu&st=k9zzu1l0&raw=1
 FramePanoramaOverlay_E4DBC25D_CF6B_4DE9_41D2_2B6D35854210.url = https://www.dropbox.com/scl/fi/dd0kb3x07n5knv6fbnhn4/11.png?rlkey=k98l1knngohjggm0vnuxq0wpv&st=td0swmtf&raw=1
@@ -97,6 +96,7 @@ FramePanoramaOverlay_F87F8607_CCAA_D577_41E5_CB3EEA551F78.url = https://www.drop
 FramePanoramaOverlay_F16871A2_C21E_2955_41E1_6F8F361F8A5F.url = https://www.dropbox.com/scl/fi/dy6pr7hj2rfi75s2nspoi/2.png?rlkey=j90uslsb5ar8w06r7vsu22nz6&st=l0slori3&raw=1
 FramePanoramaOverlay_F90BF801_CCE6_DD6D_41A8_C3C14342771E.url = https://www.dropbox.com/scl/fi/e7lk58v6u5oqklhmcnhw7/lote178.gif?rlkey=xwyu0nsi7tc7gyvdkjvv8dzr2&st=rghm88h7&raw=1
 FramePanoramaOverlay_E7C55CD9_CF7A_B6EC_41CB_40303D78324D.url = https://www.dropbox.com/scl/fi/edwnblhmi7volesxry169/36.png?rlkey=mcf6wwqlrevutt2utcw19pqog&st=5h6xz377&raw=1
+FramePanoramaOverlay_E3BD9BE6_CF66_D2A1_41D3_6F5063789292.url = https://www.dropbox.com/scl/fi/el8vgzpac46ezchvvxaqz/67.png?rlkey=bxv1sazoui52z3rh5u8d3b8fi&st=bry0g0ht&raw=1
 FramePanoramaOverlay_E46C8757_CF7A_D3E6_41DB_5D113E260A72.url = https://www.dropbox.com/scl/fi/emrx8ub69uq39acsx2gfo/28.png?rlkey=ich420ova9eh3719631wad229&st=dxphgvth&raw=1
 FramePanoramaOverlay_FCA47D41_CCA7_57E6_41DD_07FE022DF20F.url = https://www.dropbox.com/scl/fi/eq7r5ksz44nj2eqqe2e6b/lote99.gif?rlkey=6b7avmomgpjpkypb0m9o5eqsd&st=x2k8pb74&raw=1
 FramePanoramaOverlay_FD068E4B_CCA7_D5FA_41CE_262E27B07CD9.url = https://www.dropbox.com/scl/fi/evicbz6r8puy2j2hvqeop/lote100.gif?rlkey=tenmxl9zseyn3pc64gbswrm21&st=thz05cfx&raw=1
@@ -112,12 +112,12 @@ FramePanoramaOverlay_E18FC32B_CCA9_53BB_41AB_061317ABDEA1.url = https://www.drop
 FramePanoramaOverlay_F8E63035_CC99_CD95_41E6_D28E886869FD.url = https://www.dropbox.com/scl/fi/gjbz80548bpl1je3ilr0h/lote177.gif?rlkey=z9hxfpq8aaku2wo6ax8ntiqdx&st=fbtzia0d&raw=1
 FramePanoramaOverlay_FA1F8EEB_CC9B_B2BD_41E8_C508BAA598CA.url = https://www.dropbox.com/scl/fi/gnlx58rbmpv8mvp0zv1n2/lote159.gif?rlkey=cr6qvtgg14yoxlzv4lr3jtqx2&st=5eaa31by&raw=1
 FramePanoramaOverlay_E6FA5673_CF6E_B5A1_41E7_3A75A8FD43D4.url = https://www.dropbox.com/scl/fi/gt9vlhq4kxed2ibrs4ows/56.png?rlkey=9k3xtwsmjmpkcovhjxo3qc2i2&st=f9rlkl7l&raw=1
+FramePanoramaOverlay_E01D17BC_CF67_52A1_41E5_FF7745054B5B.url = https://www.dropbox.com/scl/fi/gthyuht4kqs3zogx03osn/66.png?rlkey=c5wqmnzwuwi3av3dj46mer8we&st=lr1dy5p2&raw=1
 FramePanoramaOverlay_E5B68F4F_CC9E_B3FE_41B9_95FC885CB68C.url = https://www.dropbox.com/scl/fi/h5jhf6wh5j5dv5s8ccqkp/lote80.gif?rlkey=p9mrnqfhenrzk1rad8t9u684r&st=b2jd6yvb&raw=1
 FramePanoramaOverlay_FA844D97_CCAE_D697_41D6_B3617CEB4F6C.url = https://www.dropbox.com/scl/fi/h976qjuy09afqk2mcknbd/lote138.gif?rlkey=p7zl9wqn3kku0t1ecn8cra6ob&st=lau1mko5&raw=1
 FramePanoramaOverlay_D479C731_CD9F_D589_41C0_7D06C925EA74.url = https://www.dropbox.com/scl/fi/h9zwbb0l1j1lf368b7ymu/9.png?rlkey=tnelznajmjqfhb79cvsx6voyc&st=7g7k9mna&raw=1
 FramePanoramaOverlay_FB2617E2_CCBB_F2A8_41DB_DC2FFB317E1B.url = https://www.dropbox.com/scl/fi/hicj2ibicx1zubtxvybm9/lote119.gif?rlkey=4as3ewpuc2hym0o79mgf3b9o4&st=ttazwkyo&raw=1
 FramePanoramaOverlay_E68B5FAC_CF7B_72A4_41DE_6AD7C000231E.url = https://www.dropbox.com/scl/fi/huf43vupea0d23rqb3bcp/39.png?rlkey=5u4f7ysqd16dtpfq89j7d33dr&st=c8xirvye&raw=1
-FramePanoramaOverlay_E3BD9BE6_CF66_D2A1_41D3_6F5063789292.url = https://www.dropbox.com/scl/fi/i5fsqvb083v1i5x9tvt05/lote67.gif?rlkey=clweu8eqq78qca6j1y0xaya80&st=lrlf5ogt&raw=1
 FramePanoramaOverlay_F8DD3C78_CC9F_D59B_41D3_407FDD1E6E27.url = https://www.dropbox.com/scl/fi/ic39grybpb5a1dop8ir2k/lote167.gif?rlkey=a1cahw1zftbpo9tu8iob9ujrd&st=lmi48ife&raw=1
 FramePanoramaOverlay_FFDCFFB4_CCA9_52AD_41E3_13B10794961A.url = https://www.dropbox.com/scl/fi/ip1nimv9meyfmv37j5xlb/lote92.gif?rlkey=ymsd7ycj50qepdca6s72cbbjm&st=fvjni7kr&raw=1
 FramePanoramaOverlay_FB14240C_CCA7_757A_41E4_0DDD179394F7.url = https://www.dropbox.com/scl/fi/irij1o7x78omz4m1wzin4/lote151.gif?rlkey=6pfl3hgo00am1e4hx2unr3v5i&st=89omgbv7&raw=1
@@ -131,7 +131,6 @@ FramePanoramaOverlay_FAA57301_CC9A_B36A_41E3_1F86FC95F5FA.url = https://www.drop
 FramePanoramaOverlay_E67DDD8C_CF69_7765_41A6_5C086538E514.url = https://www.dropbox.com/scl/fi/l0y82b63yqfql5hd1rb53/48.png?rlkey=cuue4p28wxq99xgkkk784qa90&st=yluljd2m&raw=1
 FramePanoramaOverlay_D7A6B07F_CD9E_CC79_41E3_1301F4B55242.url = https://www.dropbox.com/scl/fi/l2maaw5ef17dlnhrg5rq5/lote86.gif?rlkey=y9xe1et58jr8ib866tbx47i4f&st=woqyrar3&raw=1
 FramePanoramaOverlay_FDCAFE21_CCB9_55A8_41C9_8C401C39F19D.url = https://www.dropbox.com/scl/fi/l5vxertk8uqm9hhp4h0km/lote117.gif?rlkey=9k4p2zsl0xrvpqw0qv5fa5h6u&st=4jd06rq2&raw=1
-FramePanoramaOverlay_E0C1B25F_CC99_CD9F_41D5_219020D48C71.url = https://www.dropbox.com/scl/fi/ljycuffxzroghozvxoxi4/lote68.gif?rlkey=0yperu6qsqydmkrxtyr9qrmo9&st=1iickltt&raw=1
 FramePanoramaOverlay_E45D40AE_CF66_CEA9_41B5_8655ED3DEBAE.url = https://www.dropbox.com/scl/fi/m6br4sq5zkea8jqr4pde3/21.png?rlkey=k53p0i0laeb34zxvevwzlfvwm&st=8kwbdnao&raw=1
 FramePanoramaOverlay_E49E8061_CF7B_4DDA_41E4_113728D5DD2C.url = https://www.dropbox.com/scl/fi/mifphguqxv7wnvh2wcdq6/27.png?rlkey=41qpt030uyyv9tsllkjd8hhvj&st=aka69iyn&raw=1
 FramePanoramaOverlay_FF56C475_CCA9_F5AE_41D2_E938C371CA53.url = https://www.dropbox.com/scl/fi/n0f1u67u2618jqs6l5e5g/lote96.gif?rlkey=dxaz0c2pbc83hoku1u3bni9st&st=csn291ck&raw=1
@@ -149,6 +148,7 @@ FramePanoramaOverlay_FD90DD7C_CC9A_D79A_41E3_BA62D2537C20.url = https://www.drop
 FramePanoramaOverlay_E1D28D54_CF6B_57E6_41E1_FC10A44F632B.url = https://www.dropbox.com/scl/fi/ps71skb2darnqyw49751r/50.png?rlkey=vk3uxh12ji86onrk3m1wr53u1&st=8wwiojc3&raw=1
 FramePanoramaOverlay_E36DB16E_CC99_4FA1_41E5_A638453C97CB.url = https://www.dropbox.com/scl/fi/pxbrxtsezf72vhyqjr3jn/lote75.gif?rlkey=43krbzd7y33vyf9mthnjtpfgd&st=b076cq3m&raw=1
 FramePanoramaOverlay_FD951BFB_CCB9_D298_41D8_7E58EBBE7E64.url = https://www.dropbox.com/scl/fi/q1n2f9zgkon9pqkkkso4a/lote116.gif?rlkey=jgqqlnbfife5z53lfhxnlx99r&st=hh804z8i&raw=1
+FramePanoramaOverlay_E0C1B25F_CC99_CD9F_41D5_219020D48C71.url = https://www.dropbox.com/scl/fi/qbni7uiodig6b70c20p07/68.png?rlkey=48j1l6tugk9z5yovctzx37a4f&st=ban85agp&raw=1
 FramePanoramaOverlay_E774F39E_CF79_5369_41DE_9310DB108873.url = https://www.dropbox.com/scl/fi/qbsnw8x2y3del5w51328q/23.png?rlkey=u4phxdigfjjan5daeiojqc3o8&st=8lvj5nlq&raw=1
 FramePanoramaOverlay_E760E6DA_CF66_F2ED_41D4_016F688DBBB5.url = https://www.dropbox.com/scl/fi/qc4hbim21013kuloj76tv/46.png?rlkey=cyx7ce80t765790vbkb4zye4d&st=e0kf1jn0&raw=1
 FramePanoramaOverlay_FA62BB99_CCB9_F366_41E9_99D57C87B883.url = https://www.dropbox.com/scl/fi/qfa0gx962ijr1w1ugaove/lote103.gif?rlkey=zfgb1wj7x54et78048cosjrhz&st=vgv1236i&raw=1
@@ -160,6 +160,7 @@ FramePanoramaOverlay_F7B709C8_CCB9_BEE7_41E9_4DA474EA4EE6.url = https://www.drop
 FramePanoramaOverlay_FA2B8A67_CCA9_BDB6_41D8_6B08E1D492AA.url = https://www.dropbox.com/scl/fi/rgbef20f7qg9rghmzc0wz/lote149.gif?rlkey=ydl0w8pczjo5ujpkp0wfkhzc8&st=a1pdi6po&raw=1
 FramePanoramaOverlay_FDC58C7F_CC9B_5596_41E0_2764E294900D.url = https://www.dropbox.com/scl/fi/rx8qgulg9isnuw5r4ykmw/lote158.gif?rlkey=gs1495q7fkv1b1zcys6whxpq0&st=kixlznga&raw=1
 FramePanoramaOverlay_FD929983_CCA9_7F6F_41C9_7F77D93A447E.url = https://www.dropbox.com/scl/fi/s74bohov4r48gc6b4txdx/lote135.gif?rlkey=plwng80rh0pf8b4awyskryqf7&st=poiyz7bp&raw=1
+FramePanoramaOverlay_E08198B2_CF67_FEA0_41E6_54A91266E9DF.url = https://www.dropbox.com/scl/fi/skzkxnxgahhrofn9kms3i/65.png?rlkey=ttd5mfzy6to7onb6f5u9kwohd&st=7c84mru3&raw=1
 FramePanoramaOverlay_FAEA9A51_CCBA_BDE9_41D9_F55D4FCA7C27.url = https://www.dropbox.com/scl/fi/t1nrxo04dbwgq0xdj9ts5/lote104.gif?rlkey=nlbqxwk1rjvbpgxrbt8fakxo7&st=dh6bf69g&raw=1
 FramePanoramaOverlay_F8F5FA8A_CCB9_FD78_416A_E9D4B5B1DBEC.url = https://www.dropbox.com/scl/fi/tbobtsvxqqgxsa4ragd91/lote123.gif?rlkey=1roz83g3vwccadrzldgcpxdxw&st=5chaf6hv&raw=1
 FramePanoramaOverlay_FB0A768C_CCA9_7578_41BC_FF01F0A1E3AE.url = https://www.dropbox.com/scl/fi/tebln6nm4jgoz2c0vpk4h/lote128.gif?rlkey=kdu0cdq5uptu4z3j5cm58xr3v&st=q8zzhhgp&raw=1
@@ -187,8 +188,6 @@ FramePanoramaOverlay_F0B50AD5_C21E_78FF_41BA_0843CC05F019.url = https://www.drop
 FramePanoramaOverlay_F81E85A4_CCAA_F6A9_41E8_19EEC455DDB2.url = https://www.dropbox.com/scl/fi/wgparwxqyt0p4frkz2qj7/lote143.gif?rlkey=41e3teyqjdh0trlrc8x1qztyn&st=d8xntzv2&raw=1
 FramePanoramaOverlay_F8C9613F_CC99_CF96_41D7_1342268D7066.url = https://www.dropbox.com/scl/fi/wrgundeia9zxrjj8w2bhr/lote155.gif?rlkey=tnln172tx5zeok56o8z6b03f1&st=f29272qv&raw=1
 FramePanoramaOverlay_FCCD182C_CCAB_DDB8_41E5_5E47421C1ABF.url = https://www.dropbox.com/scl/fi/xhbg3yrna35w1302atj6i/lote133.gif?rlkey=tjxmpjxiviwp602ltg2w3hszj&st=k996u3kb&raw=1
-FramePanoramaOverlay_E5858CD5_CC9A_D6E0_41B3_9AA94B318B3F.url = https://www.dropbox.com/scl/fi/xjacnlmn09zwit1uy3fi1/lote70.gif?rlkey=sa1q7t9qfukcwu1fjb66p202d&st=wlur1rwh&raw=1
-FramePanoramaOverlay_E01D17BC_CF67_52A1_41E5_FF7745054B5B.url = https://www.dropbox.com/scl/fi/xjbs1eg7l1pnfumr2cqtu/lote66.gif?rlkey=127ik5sv2xxq55iz7808s0q5s&st=u1pk3r73&raw=1
 FramePanoramaOverlay_FC7BE965_CCBF_5FA9_41E6_88A1FFC7818D.url = https://www.dropbox.com/scl/fi/xofc8ijpcgacy4b2m9w45/lote113.gif?rlkey=xtk58uvdwas2xhfeo3e0ff1jf&st=yiz219y7&raw=1
 FramePanoramaOverlay_FDAD2906_CCAA_DF69_41E6_05FEFE09DABC.url = https://www.dropbox.com/scl/fi/xzc50h27h30r3ejqqn8nt/lote147.gif?rlkey=4332p1n4b2aji1tz3vgjku2zj&st=di7c0siw&raw=1
 FramePanoramaOverlay_FB7D2EBF_CCBA_B29A_41E1_5DE1619E858F.url = https://www.dropbox.com/scl/fi/y18le8ob164z4u3lryygk/lote105.gif?rlkey=icjdpe91zx54z2km6so7iien2&st=lzrjv8re&raw=1
@@ -207,9 +206,9 @@ FramePanoramaOverlay_E6287012_CF7F_4D7F_41D0_2564E48824B4.url = https://www.drop
 ### Floorplan
 
 ### Imágen
-imlevel_CA03578B_D259_3A0A_41E4_185CBFA1A317.url = media/map_3D88E67F_2E72_B798_41B1_004801CAB30A_es_0.webp
-imlevel_CA03478C_D259_3A0E_41E3_1354039B23C9.url = media/map_3D88E67F_2E72_B798_41B1_004801CAB30A_es_1.webp
-imlevel_CA03778C_D259_3A0E_41D7_68DF26A31F26.url = media/map_3D88E67F_2E72_B798_41B1_004801CAB30A_es_2.webp
+imlevel_CBE191B2_D1A8_F61A_41A9_38F8602865D2.url = media/map_3D88E67F_2E72_B798_41B1_004801CAB30A_es_0.webp
+imlevel_CBE181B2_D1A8_F61A_41E8_7CA8A5325841.url = media/map_3D88E67F_2E72_B798_41B1_004801CAB30A_es_1.webp
+imlevel_CBE181B3_D1A8_F61A_41C5_080EE819C9D4.url = media/map_3D88E67F_2E72_B798_41B1_004801CAB30A_es_2.webp
 imlevel_C7E2F24A_D27B_7A0A_41D0_8F5F239BA978.url = media/panorama_0D987A72_1EB1_E27A_41A0_3EE885BF6467_HS_3ogdass6_es.webp
 imlevel_C7E0228B_D27B_7A0A_41E5_3629E4AFB7B0.url = media/panorama_0D987A72_1EB1_E27A_41A0_3EE885BF6467_HS_46bki4bz_es.webp
 imlevel_C7E652CC_D27B_7A0E_41AA_7A8E8E46B288.url = media/panorama_0D987A72_1EB1_E27A_41A0_3EE885BF6467_HS_exqqgagm_es.webp
@@ -221,6 +220,7 @@ imlevel_C7FD2224_D27B_7A3E_41D1_C310A1B6353C.url = media/panorama_0D987A72_1EB1_
 
 ### Título
 map_3D88E67F_2E72_B798_41B1_004801CAB30A.label = 140
+photo_CF1C8416_D2A8_FE1A_41DD_A6D09BFA3ED7.label = Captura
 panorama_0D987A72_1EB1_E27A_41A0_3EE885BF6467.label = copal
 video_83F95DB1_955F_787E_41B5_97C8532FFE8F.label = video_BFED781B_DAE5_1894_41DC_93FDCC74A5E2_es
 
@@ -424,3 +424,8 @@ HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-ali
 
 ### Título
 tour.name = COPAL
+
+## Ventana
+
+### Cuerpo
+htmlText_C87EE1AE_D2AF_F60A_41D5_1BC7351404CF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
